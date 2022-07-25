@@ -74,10 +74,10 @@ Here we can clearly see that the records of crimes committed have a strange patt
 
 
 # Recommendation
-The San Francisco police must understand that the accuracy of the data must be taken seriously, we understand that it is difficult to categorize such crimes but with a robust and reliable system it is possible to extract even more insights to improve the quality of life of the city's citizens.
+- The San Francisco police must understand that the accuracy of the data must be taken seriously, we understand that it is difficult to categorize such crimes but with a robust and reliable system it is possible to extract even more insights to improve the quality of life of the city's citizens.
 
 
-
+- Furthermore, we can see great insights into types of crimes and locations in the city, which is important to show the authorities where they should act.
 
 
 
