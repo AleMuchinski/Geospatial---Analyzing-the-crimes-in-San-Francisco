@@ -18,11 +18,12 @@
   * Spatial analysis
  
 - Expected Outcome:
-  * 
-
-# Business Understanding
+  * Show authorities which crimes are most committed and where they occur, with an additional readout of day and time patterns on such occurrences.
+  * Demonstrate that the police data has certain errors and even biases about how crimes are registered in the city
+  * Interactive map to understand the city's crime patterns
 
 # Data Undersanding
+- 
 
 # Data Preparation
 
